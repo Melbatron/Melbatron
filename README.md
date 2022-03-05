@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Melbatron
 - 👀 I’m interested in learning new languages
 - 🌱 I’m currently learning C++
-- 💞️ I’m looking to collaborate on building games or apps
+- 💞️ I’m looking to collaborate on building something
 - 📫 How to reach me - goodday2code@gmail.com
 
 <!---
